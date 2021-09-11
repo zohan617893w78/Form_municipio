@@ -1,1 +1,11 @@
+*{ 
+  box-sizing:border-box;
+  
+}
+
+body {
+  margin:0;
+  froont-family:sans-serif;
+  background:#F1A04F;
+}
 
