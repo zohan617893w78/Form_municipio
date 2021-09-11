@@ -11,3 +11,18 @@ body {
 
 
 
+
+.contenedor {
+  color:#F8E2CD;
+  text-align: center;
+}
+
+.form-municipio{
+  width:60%;
+  max-width: 500px;
+  margin: auto;
+  background: #ECD9C6;
+  border-radius: 7px;
+}
+
+
